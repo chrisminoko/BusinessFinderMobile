@@ -1,0 +1,7 @@
+{
+  "name": "BusinessFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
